@@ -17,3 +17,4 @@ const sayHi  = (name) => {
 
 sayHi('bilal')
 sayHi(khan)
+
