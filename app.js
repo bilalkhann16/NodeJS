@@ -15,6 +15,6 @@ const sayHi  = (name) => {
     console.log(`Hi ${name}`)
 }
 
-sayHi('bilal')
+sayHi('bilal' )
 sayHi(khan)
 
