@@ -1,16 +1,16 @@
 // // started operating system proces.
-// console.log('First, Hello World');
-// setTimeout(() => {
-//     console.log('second');
-// },0);
+console.log('First, Hello World');
+setTimeout(() => {
+    console.log('second');
+},0);
 
-// console.log('third');
+console.log('third');
 
-//new example (setTimeout vs setInterval)
-// setInterval(() =>{
-//     console.log('Hello');
-// },2000);
-// console.log('I will run first.')
+// new example (setTimeout vs setInterval)
+setInterval(() =>{
+    console.log('Hello');
+},2000);
+console.log('I will run first.')
 
 //https server example
 const http = require('http');
